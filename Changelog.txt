@@ -1,1 +1,2 @@
 Menambah histogram walaupun ada sedikit error
+Menambah hasil visualisasi agglomerative clustering dan kesimpulan
